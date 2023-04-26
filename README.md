@@ -1,20 +1,26 @@
-# JavaScript - Origamid
+# Skilled e-Learning - FrontEnd Mentor
 
-Aqui neste repositório estão os exercícios feitos nas aulas da [Origamid](https://www.origamid.com).
+Esse projeto faz parte dos desafios do [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-OBS: Existem arquivos HTML e CSS pois está sendo manipulado um site em alguns momentos.
+[Acesse o site aqui.](https://skilled-frontendmentor.vercel.app/)
+<br>
+<br>
+[Acesse o desafio aqui.](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q)
+
+## Demonstração
+
+![Wireframe - 1](https://user-images.githubusercontent.com/82620787/234464211-40754a03-4aa9-4b33-9203-d1175d1d6d00.png)
+
+## Mais Informações
+
+Foi construído como proposto no design, utilizando:
+
+- HTML
+- CSS
 
 ## Stack
 
-- JavaScript
-
-## Autores
-
-- [Origamid Site](https://www.origamid.com)
-
-- [Origamid Intagram](https://www.instagram.com/origamid.cursos/)
-
-- [Origamid Github](https://github.com/origamid)
+**Front-end:** HTML, CSS
 
 ## License
 
