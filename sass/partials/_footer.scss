@@ -1,0 +1,18 @@
+.footer-bg {
+  background-color: $blue;
+
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+    .logo {
+      @include responsive(xs) {
+        width: 89px;
+      }
+    }
+  }
+}

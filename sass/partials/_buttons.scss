@@ -1,0 +1,56 @@
+.btn-1 {
+  font-family: "Plus Jakarta Sans";
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: $white;
+  text-align: center;
+
+  padding: 14px 32px;
+  background-color: $blue;
+  border-radius: 28px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn-1:hover {
+  background-color: $blue-light;
+}
+
+.btn-2 {
+  font-family: "Plus Jakarta Sans";
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: $white;
+  text-align: center;
+
+  padding: 18px 32px;
+  background-image: $gradient-1;
+  border-radius: 28px;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.btn-2:hover {
+  opacity: 50%;
+}
+
+.btn-3 {
+  font-family: "Plus Jakarta Sans";
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: $white;
+  text-align: center;
+
+  padding: 18px 32px;
+  background-image: $gradient-2;
+  border-radius: 28px;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.btn-3:hover {
+  opacity: 50%;
+}

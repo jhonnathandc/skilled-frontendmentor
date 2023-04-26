@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding-top: 24px;
+  padding-bottom: 24px;
+
+  .logo {
+    @include responsive(xs) {
+      width: 89px;
+    }
+  }
+}
