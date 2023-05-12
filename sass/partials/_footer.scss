@@ -6,12 +6,12 @@
     align-items: center;
     justify-content: space-between;
 
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 3.2rem;
+    padding-bottom: 3.2rem;
 
     .logo {
       @include responsive(xs) {
-        width: 89px;
+        width: 8.9rem;
       }
     }
   }
